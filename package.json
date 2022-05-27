@@ -1,6 +1,6 @@
 {
   "name": "create-next-component",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Used to create react component with styles",
   "main": "index.js",
   "bin": {
